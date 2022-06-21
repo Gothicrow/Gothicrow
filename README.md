@@ -1,4 +1,11 @@
-### Hi there 👋
+### Buenas! Soy Agustin, desarrollador Web Full Stack de Buenos Aires, Argentina. 👋
+
+Me considero proactivo, curioso, de escucha activa, siempre buscando la base de los problemas y la manera de resolverlos, me gusta estar constantemente aprendiendo y transmitir ese conocimiento al equipo.
+
+Mis inicios en la programación fueron en el secundario donde tuve una base de programación en C y PLC, ademas de haber adquirido bases en electrónica.
+En el 2021 realice un curso de desarrollo de videojuegos en Unity en la UTN y al finalizarlo ingrese a Henry donde me capacite como desarrollador Full Stack.
+
+**Mis tecnologías**: HTML, CSS, JavaScript, SQL, GitHub, Node.js, React, Redux, Express, Unity.
 
 <!--
 **Gothicrow/Gothicrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
