@@ -1,23 +1,25 @@
-### Buenas! Soy Agustin, desarrollador Web Full Stack de Buenos Aires, Argentina. 👋
+## Buenas! Soy Agustin, desarrollador Web Full Stack de Buenos Aires, Argentina. 👋
 
 Me considero proactivo, curioso, de escucha activa, siempre buscando la base de los problemas y la manera de resolverlos, me gusta estar constantemente aprendiendo y transmitir ese conocimiento al equipo.
 
 Mis inicios en la programación fueron en el secundario donde tuve una base de programación en C y PLC, ademas de haber adquirido bases en electrónica.
 En el 2021 realice un curso de desarrollo de videojuegos en Unity en la UTN y al finalizarlo ingrese a Henry donde me capacite como desarrollador Full Stack.
 
-**Mis tecnologías**: HTML, CSS, JavaScript, SQL, GitHub, Node.js, React, Redux, Express, Unity.
+### Mis tecnologías: HTML, CSS, JavaScript, SQL, GitHub, Node.js, React, Redux, Express, Unity.
 
-<!--
-**Gothicrow/Gothicrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **Mi primer proyecto** en desarrollo Web fue mi PI en Henry:
+  <a href="https://pi-pokemon-wheat.vercel.app/">Link al proyecto</a>
 
-Here are some ideas to get you started:
+<div>
+<img src="https://lh3.googleusercontent.com/fife/AAWUweUnWTTovJ4UaZBt7kltxpwmeBIwYb2al_noDdTQBUoIK436IpydVtslEF_chjP-W5zGd4yyE-ERl6TfNMTKJyrNGGIsngTzAhpj4Wy0mr-2IkHC4QvmUYzYZA5nPvJtw_6tG6tqcWXpIP2JoEgI7wb6gA8gRG9PZ3tL2VTXYxnlc0d6nojDCqoK_He-U13mOpZdEcKcDOlz4sSMhBZ-tXhJ9Tb3DAJCQpK7o_MFrTf6x9MSCtoUH8ITrnnuayZJanqz-jS1gxgijkqLY80290Mjvmvafl8lQQL9A_Xommx3ncmg4AlsMuo54kx6Whmi49kwrhdpDUBTxqKcDDFuA-cI-H6lvTMHy2GwnTn8htf1RRfJP-ER-fINJD9KT36ObbouQWrFhiL1bm_F_l_oUT14cEA6Wch_VZBNoMVKd6V8hD6hYa66qKjaNQ7js1rzfbs-XjFCVFwzakS3KttNRQ_GcRKxbZeLwc3epxcO59eUVpgS8oXAIW8AgBsHo0bepdeDwg6sYqjnbjg8Ra57rhPmStjVXPibWF1OfYqLk-EpFyzKZU5uJGyuvUW5DxfBnJmd5wrhWslb6qHIbRNf9X4MEhFlt0eIEaGla8_t_VRS08wYmmyiZt7Xwz3pDT3Rkvb0R52e-Vn4FN72BrX9veANXF0gHxj2z3XtPC3sXXSysm73sNaV4FbDOLJ70ZkRXVEzUyEU35JyhzfagEq4PcovlWbW67-Mm-Lh2KCPH0k0S9MY9lqyq5GdRdieVOIiDo0M5D09Tkqj19FdNmC3QSGJTwVRVI_SII-ILAVakTaCtkK9AeiNSYXh6_NiloGV1pikiDeo-cK2Mw8wtMjIDw-ZJ30WGAaiefz6BgC3nZBNOI7N6hlKzOqpdOJc_iUEXOoiHqGGuLDH0t8gmSxN3_IUTLmtDKH7db7EIx-6VxpdjBepA0pCybqwsTT8TMAZIVU8HSxHQOFl_0nzqIpLlI0HljpP9q44tiPmzpcbbvpi3eV1IIFUp5yBvUY_SZ_S2OKGZGStLmdYyvgBFFlEx9_jAtgq71vnt_fVbXsfe9bDAXsN9G-ovjrIUs0sejBOHpirF8t7ijwERvyto-axs_uZAWQzj7ZnbcmpPOcNAO4t9fT0iKbEXldRjyUwRf6Nt5Tvgxf0WKoIcwWG0nxlz359L_1BZL78zkAfIPDaaOHKiZaz-ccsl2uM_k0gKfvr9Ss5tNAxG8i5VFbAOVokCpoqlU_udWTDnu3ZjO3B0_9H7YD-bQ7dy86flpZQV4nW5RESpI0=w1528-h800" style="width:450px" >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://lh3.googleusercontent.com/fife/AAWUweWPPv8fSUVH4R1jvVjolR2l2b3L-RX-k0mtKb_MTo22HlqPMCpJuUgYbfNro5B4OuzUMTkfFDNmkVceslU6uPWROZroJtNdST0eZGhE2uq-2P4JMphiGwDd3D1b2T1sFp76UVwsedCcQ_liyEwDr98JlFaaKl-PdK3jsW2nQ6OfxxchfMpELWHnlbUfrENcSuKIgNpPECCfV_S8dhZAlr2pQ8LkzF2_g6ak7uaK9FWd3p43hPQUx8sMbYf3jKmyKBRx6f9jBbkw3YpDgQRE6gCQbKvOcHJ5hKK5u7XZM-X_E8JtOEt5Z9_8L6YfWqgbNf9ky2oyZIAlJIPuXLnqBb9nwcKY6eQ5k_M5LZ_pS4NBkpiaUID1XcsuQS-Pd9tW0hybBL55SxR80nDmlazs1rZsbN7buTbQhb_rwfxurNh2lK7Px3lYDN42zo8DM_paddQGUPIZkRffXQl3mLFqs7gJb66n3ueRLR7kATAPv68DLtak8Df4yFty_Yaf4ifOO3-6Wdonn8-frLuNjvWW91ehFO--kYE6xdXArDqKUfR_ObA95pVHBkMiECummqcFLlcys1gxZoyzzOSbt8jFKm2t-dHzp7ZFWZY0UhK93H0R3iaDeAOatgAF8GNM9MlqnoXrniMWljsVFsA0k4pF4pJ6zvHKdHudkS3d0BpXYgiliv6BoUGvS1Y3GzXpsNin8qItKI5tYH4boiQrub7FYycB3qM_29ttzojk6-BjHqgEBdg_eSqrhH_rmNbAvIyH0oMSDkDqRCt4jAkMAVyM_apkJXUioYlAHAquQUY23gJHKv32Z04VdAg-_efq7nF0DOsWxJBlozpw0RHQPnao94DdJQ_hB-wJJeJQ35__h_Y39aAhmmtyW-AGwNeV3wK0MqgKATilPidU8E9YAd8MJjLUGkl1v4zJ1z3jGOnIiZoReOJAWcGO3s-mEKp2zIdPGuzKrNIHGOAhYRC4hqm_B0YP8sR64lECFJqfLoUu7ja0YxmWBkUegAxiNJrCDhnCofMmFn7IGXFGscKAbImMR0JHFdYWar17fonOQ9CWGjOd9zEIS10BxAW0bcB6nuekaBm8i6I-eRtfHLCR4jZ-714h5YH4V3HYkEdYnW5VnGo14NxbYqaK2ixc23xUWzimP8bXeVLcg3CYI0Mg-OTClu1Q0bY5_xvvzKkXm3m-PcIK8ivI8iHGyywtKwT6yjz5xxKA_VIauGIl2Og3IvlELg5HJhSzC76DuOiGNtT4jNcqD3RZZwKo-J3VYlles-Aum-JGKMw=w1528-h800" style="width:450px" >
+</div>
+<br>
+
+Mi **proyecto final en Henry** fue hacer una **pagina que facilite la busqueda laboral** tanto para usuarios como para empresas, teniendo la posibilidad el usuario de **mandar su cv** a la oferta creada por la empresa y que esta le responda con una invitacion a una **entrevista por videollamada** dentro de la misma pagina.
+<a href="https://proyecto-final-nu.vercel.app/">Link al proyecto</a>
+
+<div>
+<img src="https://lh3.googleusercontent.com/fife/AAWUweU45NEUTHu0sDy76HMVtvIbdGHsciar-b_RqvuZXr5RQIyEHY0B2TN1WhVblKkRzp64aihg6bvNah9gSVLG5x7mRMjnXxT-K9cAeLG6yTYtvVj0dk8HIdioIIv2VgmGTFDS18nbOTKdgeccGQ860NjLLFfL2Z7YyJXmtXeTdNtcRyydWqjZY35vzzq_ClZQHfZf0gjouyhQCxksLdKtTI4_ekUgYhiedN_ZKyJhY9IgutQDUGaWDHdA5LCvqA62lPIouAp-Szn3lRhT2LLRplt0EGg4ErSAXadIEY-2Ji-U6OfX5qdPtkdYjEfzJDT6YgMesCoviAl9wbBs_E2VRoyBiFoZAlzTsSbhHcKS2DzcNVIRbxsYEjzwy0wMvEbxr3v6TnK5rDlt7Qpk3YDC3tIFvm1_Kgd7hBZKBVf-mviHvoaoEe3egEK62418cBDkB9jLZYn3Rp09qg8MHbcnaH3K5XMlJT9Lijfmcct923dzFwWQ1UyUjTuMq9UpawcIic4n4p2D8jIXdPyFYdllpRWKZAKeCE6r9WVr1JlRvOom9BRif_hKRRT1SN_l_sEwtw-IH_Lvp9ADoOxaGGyPsS-2R0NEEXDmOAgJgB6C61CkVroX5b2jWXpAd1L1oX1rCKYKPQD4p_b08xvS59rmkfEjpnBC-cKwd5vhfEk2UTQh-HXkmj8iQAwotgLvYonORDJtYZDOoIMMAdiP_wHO6BZ_NtRraeUmG86KJuU0bpD7WAzpWgNxGTgO96a8h03yx2XuESj4JPWaUdQXXGXeFjvwJBdq1ZBhE9ZcG-L2O-L_hlCI_MJcMCiIesqngYguz4gt4xf3SM7BXnJsZVQkdm5Zd-PdWfc_c0Pvt1oPWjk8ALilA3bqF_Gkn9YVWaO5-3cXwNQ-_rpOqacbOFmlgDdolMQmBwPFZQ6rTHgaO_rwaZkCEdqdlj3WLsidg7h3_nOe7G-oVWY75IE8Ri3_BNuZxtytKJ1F2vFy1fhX0sDw8Cd6xvMnRZ6i7PHSxDI3Q8H1xuoNuOZno6BwTmdDTf5oBhFNtatIRhz1feKAghqTYfXpdDQXD3vzUV_2kU5z11yzfTQs0R-kEhpPBQHiGrzUIV3TA9dRlfyFIwmf3gzlxTGRMzFg9X79b3SVVGjR5V4q8D_XAEt1-vmytBAoPwwGMlDm4UDEc6WzqM0-5t_ckSeochjKs1kY0Ao7V0wx0fY_xGHCMeVu5lDgs42nYk01GwrT3ZTQ8q7txvFKk8Ajg1uF-XyAfll4s3AHPgcG3jvhTV0=w1528-h800" style="width:450px" >
+</div>
