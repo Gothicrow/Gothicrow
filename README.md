@@ -40,10 +40,10 @@ Mi **proyecto final en Henry** fue hacer una **pagina que facilite la busqueda l
 
 ### Si me queres contactar podes hacerlo en:
 <div>
-  <img src="./img/linkedin-logo.png" style="width:51px" >
+  <img src="./img/linkedin-logo.png" style="width:30px" >
   <a href="https://www.linkedin.com/in/agusbanegas/">Linkedin</a>
 </div>
 <div>
-  <img src="./img/gmail-logo.png" style="width:51px" >
+  <img src="./img/gmail-logo.png" style="width:30px" >
   <a href="mailto:agusezeq@gmail.com">agusezeq@gmail.com</a>
 </div>
