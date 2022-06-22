@@ -17,7 +17,7 @@ En el 2021 realice un curso de desarrollo de videojuegos en Unity en la UTN y al
 </div>
 <br>
 
-Mi **proyecto final en Henry** fue hacer una **pagina que facilite la busqueda laboral** tanto para usuarios como para empresas, teniendo la posibilidad el usuario de **mandar su cv** a la oferta creada por la empresa y que esta le responda con una invitacion a una **entrevista por videollamada** dentro de la misma pagina.
+Mi **proyecto final en Henry** fue hacer una **pagina que facilite la busqueda laboral** tanto para usuarios como para empresas, teniendo la posibilidad el usuario de mandar su cv a la oferta creada por la empresa y que esta le responda con una invitacion a una entrevista por videollamada dentro de la misma pagina.
 <a href="https://proyecto-final-nu.vercel.app/">Link al proyecto</a>
 
 <div>
